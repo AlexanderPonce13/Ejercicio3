@@ -1,0 +1,31 @@
+body {
+    color: #00F; /* Color del texto del cuerpo del documento */
+    background-color: #CFC; /* Color de fondo del cuerpo del documento */
+    font-family: Georgia, Cambria, serif; /* Familia de fuentes para el texto del cuerpo del documento */
+    font-size: 16px; /* Tamaño de la fuente para el texto del cuerpo del documento */
+    }
+    
+    h1 {
+        color: #F00; /* Color del texto para los encabezados de nivel 1 */
+        font-family: Verdana, Calibri, sans-serif; /* Familia de fuentes para los encabezados de nivel 1 */
+        font-size: 32px; /* Tamaño de la fuente para los encabezados de nivel 1 */
+        }
+        
+        h2 {
+        color: #A00; /* Color del texto para los encabezados de nivel 2 */
+        font-family: Verdana, Calibri, sans-serif; /* Familia de fuentes para los encabezados de nivel 2 */
+        font-size: 24px; /* Tamaño de la fuente para los encabezados de nivel 2 */
+        }
+        
+        span {
+        color: #060; /* Color del texto para los elementos span */
+        }
+        
+        strong {
+        font-size: 20px; /* Tamaño de la fuente para los elementos strong */
+        }
+        
+        em {
+        color: #FFF; /* Color del texto para los elementos em */
+        background-color: #000; /* Color de fondo para los elementos em */
+        }
